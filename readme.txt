@@ -1,0 +1,1 @@
+This is the Tea Cozy project for Codecademy.  This is an exercise on using the basic Flexbox tools to create and style a basic website.
